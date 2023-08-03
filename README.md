@@ -39,7 +39,7 @@ than one hour (a comforting thought). You get a token, and pass it to the API
 you want to call.
 
 # Installation
-`go get github.com/wietsevenema/oidc`
+`go install github.com/wietsevenema/oidc@latest`
 
 # Example Usage
 In the next snippet, I am printing my personal token using `gcloud auth print-identity-token`. 
